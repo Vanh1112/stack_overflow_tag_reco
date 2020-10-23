@@ -49,4 +49,4 @@ You need to have installed following softwares and libraries in your machine bef
 3. Word Cloud: https://pypi.org/project/wordcloud/
 
 ## Authors
-- Gaurav Sharma - Complete work
+- Vanh_tinhte.DS - Complete work
