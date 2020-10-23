@@ -1,4 +1,4 @@
-# Stackoverflow Tag Prediction
+# Stackoverflow Tag Prediction - Vanh_tinhte.vn@DataScientist
 
 ## Business Problem
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.<br>
@@ -49,4 +49,4 @@ You need to have installed following softwares and libraries in your machine bef
 3. Word Cloud: https://pypi.org/project/wordcloud/
 
 ## Authors
-- Vanh_tinhte.DS - Complete work
+**Vanh_tinhte.vn@DataScientist - Complete work**
